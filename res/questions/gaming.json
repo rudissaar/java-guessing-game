@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "text": "Who was the first pokemon ever designed?",
+      "solution": "b",
+      "answers": {
+        "a": "Mew",
+        "b": "Rhydon",
+        "c": "Bulbasaur",
+        "d": "Pikachu"
+      }
+    },
+	{
+      "text": "Which title belongs to The Legend of Zelda franchise?",
+      "solution": "d",
+      "answers": {
+        "a": "The Sands of Time",
+        "b": "The Age of Kings",
+        "c": "400 Days",
+        "d": "Ocarina of Time"
+      }
+    }
+  ]
+}
