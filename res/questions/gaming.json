@@ -10,7 +10,7 @@
         "d": "Pikachu"
       }
     },
-	{
+    {
       "text": "Which title belongs to The Legend of Zelda franchise?",
       "solution": "d",
       "answers": {
@@ -18,6 +18,16 @@
         "b": "The Age of Kings",
         "c": "400 Days",
         "d": "Ocarina of Time"
+      }
+    },
+    {
+      "text": "Notch, is the creator of which famous game?",
+      "solution": "c",
+      "answers": {
+        "a": "Terraria",
+        "b": "Stardew Valley",
+        "c": "Minecraft",
+        "d": "Roblox"
       }
     }
   ]
