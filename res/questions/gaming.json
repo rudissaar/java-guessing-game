@@ -39,6 +39,16 @@
         "c": "Badger",
         "d": "Raccoon"
       }
+    },
+    {
+      "text": "What does GIF stand for?",
+      "solution": "a",
+      "answers": {
+        "a": "Graphics Interchange Format",
+        "b": "Graphical Interchange Format",
+        "c": "Graphics Image Format",
+        "d": "Graphical Image Format"
+      }
     }
   ]
 }
