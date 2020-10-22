@@ -38,8 +38,9 @@
         "b": "Mole",
         "c": "Badger",
         "d": "Raccoon"
-      },
-    {
+      }
+	},
+	{
       "text": "What is Known as the Hardest Game of all Time?",
       "solution": "b",
       "answers": {
