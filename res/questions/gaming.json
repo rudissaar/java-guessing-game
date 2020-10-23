@@ -39,6 +39,16 @@
         "c": "Badger",
         "d": "Raccoon"
       }
+	},
+	{
+      "text": "What is Known as the Hardest Game of all Time?",
+      "solution": "b",
+      "answers": {
+        "a": "Assassin's Creed",
+        "b": "Ghosts and Goblins",
+        "c": "Contra",
+        "d": "Ninja Gaiden"
+      }
     }
   ]
 }
