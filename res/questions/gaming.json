@@ -41,13 +41,23 @@
       }
 	},
 	{
-      "text": "What is Known as the Hardest Game of all Time?",
+      "text": "What is known as the hardest game of all time?",
       "solution": "b",
       "answers": {
         "a": "Assassin's Creed",
         "b": "Ghosts and Goblins",
         "c": "Contra",
         "d": "Ninja Gaiden"
+      }
+    },
+    {
+      "text": "In Sonic the Hedgehog, who was Eggman's design based on?",
+      "solution": "b",
+      "answers": {
+        "a": "President Theodore Rosevelt",
+        "b": "Jack Black",
+        "c": "Julian Assange",
+        "d": "Danny DeVito"
       }
     }
   ]
