@@ -50,7 +50,7 @@
         "d": "Ninja Gaiden"
       }
     },
-    {
+	{
       "text": "In Sonic the Hedgehog, who was Eggman's design based on?",
       "solution": "b",
       "answers": {
@@ -59,6 +59,15 @@
         "c": "Julian Assange",
         "d": "Danny DeVito"
       }
-    }
+    },
+	{
+      "text": "When did Overwatch become free-to-play officially?",
+      "solution": "a",
+      "answers": {
+        "a": "October 2022",
+        "b": "June 2022",
+        "c": "October 2021",
+        "d": "January 2021"
+      }  
   ]
 }
