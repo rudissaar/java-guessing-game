@@ -79,6 +79,16 @@
         "c": "Overwatch",
         "d": "Fortnite"
       } 
+   },
+	{
+      "text": "Which video game won the most anticipated game award of 2022?",
+      "solution": "a",
+      "answers": {
+        "a": "Elden Ring",
+        "b": "God of War Ragnarök",
+        "c": "Horizon Forbidden West",
+        "d": "Starfield"
+      } 
    }  
   ]
 }
