@@ -68,6 +68,17 @@
         "b": "June 2022",
         "c": "October 2021",
         "d": "January 2021"
-      }  
+      } 
+   },
+	{
+      "text": "Which video game characters does Netflix series "Arcane" feature?",
+      "solution": "b",
+      "answers": {
+        "a": "Dota",
+        "b": "League of Legends",
+        "c": "Overwatch",
+        "d": "Fortnite"
+      } 
+   }  
   ]
 }
